@@ -1,0 +1,7 @@
+2024-07-07 15:50:51 - Created default config file at /content/drive/MyDrive/Colab Notebooks/.chainlit/config.toml
+2024-07-07 15:50:51 - Created default translation directory at /content/drive/MyDrive/Colab Notebooks/.chainlit/translations
+2024-07-07 15:50:51 - Created default translation file at /content/drive/MyDrive/Colab Notebooks/.chainlit/translations/en-US.json
+Usage: chainlit run [OPTIONS] TARGET
+Try 'chainlit run --help' for help.
+
+Error: Invalid value: File does not exist: app.py
